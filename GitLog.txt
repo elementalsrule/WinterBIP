@@ -1,0 +1,23 @@
+commit 02533846c7cb76050dc5be4242f8bf14cc0149ad (HEAD -> new-branch, origin/new-branch, origin/master, origin/HEAD, master)
+Author: elementalsrule <becubaradesuka@gmail.com>
+Date:   Thu Jan 15 12:51:42 2026 +0100
+
+    .\BIP-PAAD-Functionallity-Specification (1).docx
+
+commit fc89fd948c74a4e4f9de0097a7625312d4f0793a
+Author: elementalsrule <becubaradesuka@gmail.com>
+Date:   Thu Jan 15 12:48:40 2026 +0100
+
+    .\Wireframes.pdf
+
+commit 930e2d9e17bd4d785a1ecc889bd48180360bcdce
+Author: elementalsrule <becubaradesuka@gmail.com>
+Date:   Thu Jan 15 12:10:56 2026 +0100
+
+    .\README.txt
+
+commit 923f7424b307f95c09aff738fbfd48a87af89e66
+Author: elementalsrule <becubaradesuka@gmail.com>
+Date:   Thu Jan 15 11:52:35 2026 +0100
+
+    initial commit
