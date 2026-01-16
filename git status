@@ -1,40 +1,40 @@
-commit 16cf5510a5c5fa256c9dc939a4ceb04afe0b79b7 (HEAD -> master, origin/master)
+[33mcommit 16cf5510a5c5fa256c9dc939a4ceb04afe0b79b7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
 Author: elementalsrule <becubaradesuka@gmail.com>
 Date:   Fri Jan 16 11:30:29 2026 +0100
 
     merged files
 
-commit b9a97da829ebbb4897f8567a3ee1b9a16289e8d4 (origin/new-branch, new-branch)
+[33mcommit b9a97da829ebbb4897f8567a3ee1b9a16289e8d4[m[33m ([m[1;31morigin/new-branch[m[33m, [m[1;32mnew-branch[m[33m)[m
 Author: elementalsrule <becubaradesuka@gmail.com>
 Date:   Fri Jan 16 11:25:00 2026 +0100
 
     GitLog
 
-commit 7136e9a44cddf20a714ad75138272ddce9fddaef
+[33mcommit 7136e9a44cddf20a714ad75138272ddce9fddaef[m
 Author: elementalsrule <becubaradesuka@gmail.com>
 Date:   Fri Jan 16 11:01:09 2026 +0100
 
     NewDoc committed
 
-commit 02533846c7cb76050dc5be4242f8bf14cc0149ad
+[33mcommit 02533846c7cb76050dc5be4242f8bf14cc0149ad[m
 Author: elementalsrule <becubaradesuka@gmail.com>
 Date:   Thu Jan 15 12:51:42 2026 +0100
 
     .\BIP-PAAD-Functionallity-Specification (1).docx
 
-commit fc89fd948c74a4e4f9de0097a7625312d4f0793a
+[33mcommit fc89fd948c74a4e4f9de0097a7625312d4f0793a[m
 Author: elementalsrule <becubaradesuka@gmail.com>
 Date:   Thu Jan 15 12:48:40 2026 +0100
 
     .\Wireframes.pdf
 
-commit 930e2d9e17bd4d785a1ecc889bd48180360bcdce
+[33mcommit 930e2d9e17bd4d785a1ecc889bd48180360bcdce[m
 Author: elementalsrule <becubaradesuka@gmail.com>
 Date:   Thu Jan 15 12:10:56 2026 +0100
 
     .\README.txt
 
-commit 923f7424b307f95c09aff738fbfd48a87af89e66
+[33mcommit 923f7424b307f95c09aff738fbfd48a87af89e66[m
 Author: elementalsrule <becubaradesuka@gmail.com>
 Date:   Thu Jan 15 11:52:35 2026 +0100
 
